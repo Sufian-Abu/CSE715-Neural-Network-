@@ -1,6 +1,6 @@
 # CSE715-Neural-Network
 # Project Name
-Multi Lingual(English, Bangla) Chatbot Experiment For Neural Network Course 
+MultiVerse Neural Talk - Multi Lingual(English, Bangla) Chatbot Experiment For Neural Network Course 
 
 ## Description
 
